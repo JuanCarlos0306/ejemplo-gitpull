@@ -1,1 +1,2 @@
-# ejemplo-gitpull
+# repositorio de practica
+ejercicios de github
